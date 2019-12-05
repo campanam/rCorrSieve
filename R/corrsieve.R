@@ -1,3 +1,23 @@
+#-----------------------------------------------------------------------------------------------
+# CorrSieve 1.6-8: software to summarise and evaluate output from STRUCTURE
+# Copyright (C) 2010-2013 Michael G. Campana
+# GitHub Documentation revisions by Michael G. Campana (2019) are in the
+# public domain as a US government work.
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#-----------------------------------------------------------------------------------------------
+
 setClass("matrixCorr", representation(K="numeric",Run1="numeric",Run2="numeric",CorrMatrix="matrix",Pvalues="matrix"))
 matrixCorr <- function(K, Run1, Run2, CorrMatrix, Pvalues = matrix(NA)) {
 	res <- new("matrixCorr")
