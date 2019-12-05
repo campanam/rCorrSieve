@@ -1,0 +1,3 @@
+citHeader("Please cite the 'corrsieve' package as:")
+vers <- paste("R package version", meta$Version)
+bibentry(bibtype="Article", title = "CorrSieve: software for summarising and evaluating STRUCTURE output", author = personList(as.person("Michael G. Campana"), as.person("Harriet V. Hunt"), as.person("Huw Jones"), as.person("Jon White")), year = "2011", note = vers, journal = "Molecular Ecology Resources", volume = "11", pages = "349-352")

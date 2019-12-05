@@ -1,0 +1,15 @@
+99a912dbe108610adc5de905be12dfa0 *DESCRIPTION
+6bb784b9b54bfb037121167bd1c2e7d2 *NAMESPACE
+98371c1997bc881abff3f34f264dd054 *R/corrsieve.R
+e37973682607cadae8b181cdae2348e2 *inst/CITATION
+0a61b62339ad7ae92be1585048069c44 *man/QmatrixFilt-method.Rd
+b6a9ba78d61830e123d8d59393f4c376 *man/QmatrixFilt.Rd
+67906057dba8f5cb8c3d0f8f417adc12 *man/calc.delta.Rd
+0cca2e387e1958837123f6ab68fb8212 *man/corr.Qmatrix.Rd
+22fe3151f06eb3970d5d3b28489e667a *man/matrixCorr-method.Rd
+40245bf7331fb99f939295d5fa6fbe88 *man/matrixCorr.Rd
+73f6e6fc9ed3b66f47cf40773a050e47 *man/read.struct.Rd
+a8fbe607b6927d8a75c5459f26cae627 *man/rowncolMatrix-method.Rd
+315d8dc6cc2bfe820b95dde7a34063cb *man/rowncolMatrix.Rd
+a28c45acaaadd71a02466c94308197bf *man/summarise.Fst.Rd
+ad16b1b9b8a896a68ba1061054fd527d *man/summarise.lnPD.Rd
