@@ -1,8 +1,8 @@
 # rCorrSieve Change Log
 
-Michael G. Campana, 2019
-Smithsonian Conservation Biology Institute
-Contact: campanam@si.edu
+Michael G. Campana, 2019  
+Smithsonian Conservation Biology Institute  
+Contact: campanam@si.edu  
 
 Public domain rCorrSieve GitHub documentation updates (version =1.6-8) are US government works  
 Unmodified *CorrSieve* source code (versions <= 1.6-8) copyright (c) Michael G. Campana, 2010-2013
