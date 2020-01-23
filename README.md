@@ -1,7 +1,6 @@
 # rCorrSieve  
 Michael G. Campana  
 Smithsonian Conservation Biology Institute  
-Contact: campanam@si.edu  
 
 R implementation of CorrSieve  
 
