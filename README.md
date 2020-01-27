@@ -68,18 +68,20 @@ will generate an S4 object named ‘Qmat’ in which the STRUCTURE output in the
 Please report all bugs (and any suggestions for improvements) to Michael G. Campana (campanam@si.edu).  
 
 ## CorrSieve Citation  
-Campana, M.G. et al. 2011. *CorrSieve*: software for summarizing and evaluating Structure output. Mol. Ecol. Resour. 11:349-352. https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1755-0998.2010.02917.x  
+Campana et al. 2011. *CorrSieve*: software for summarizing and evaluating Structure output. Mol. Ecol. Resour. 11:349-352. https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1755-0998.2010.02917.x  
 
 ## Acknowledgments
 Rita Cannas helpfully checked the method for calculating Δ*K*. Dent Earl , Elena López, and Michał Żmihorski identified bugs in the software.  
 
 ## References
-Campana, M.G. et al. 2011. *CorrSieve*: software for summarizing and evaluating Structure output. Mol. Ecol. Resour. 11:349-352. https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1755-0998.2010.02917.x  
+Campana et al. 2011. *CorrSieve*: software for summarizing and evaluating Structure output. Mol. Ecol. Resour. 11:349-352. https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1755-0998.2010.02917.x  
 
 Cockram et al. 2008. Association mapping of partitioning loci in barley. BMC Genet. 9: 16–29. https://bmcgenet.biomedcentral.com/articles/10.1186/1471-2156-9-16.  
 
 Evanno et al. 2005. Detecting the number of clusters of individuals using the software STRUCTURE: a simulation study. Mol. Ecol. 14: 2611-2620. https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-294X.2005.02553.x.  
 
 Gao et al. 2007. A Markov Chain Monte Carlo approach for joint inference of population structure and inbreeding rates from multilocus genotype data. Genetics. 176: 1635-1651. https://www.genetics.org/content/176/3/1635.  
+
+Hester et al. 2019. remotes: R package installation from remote repositories, including 'GitHub'. R package version 2.1.0. https://CRAN.R-project.org/package=remotes.  
 
 Pritchard et al. 2000. Inference of population structure using multilocus genotype data. Genetics. 155: 945–49. https://www.genetics.org/content/155/2/945.  
