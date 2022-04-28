@@ -13,9 +13,9 @@
 \seealso{\code{\link[=rowncolMatrix-class]{rowncolMatrix}}}
 \examples{
 	## Make a table of correlation determinations
-	filtmat <- table(matrix(c("Y","Y","Y",NA,"Y","Y",NA,NA,"Y")
+	filtmat <- table(matrix(c("Y","Y","Y",NA,"Y","Y",NA,NA,"Y"),ncol = 3, byrow = TRUE))
 	## Make a rowncolMatrix
-	test <- rowncolMatrix(K = 3, filtermatrix = filtmat,ncol = 3, byrow = TRUE)))}
+	test <- rowncolMatrix(K = 3, filtermatrix = filtmat)}
 \keyword{Q matrix}
 \keyword{Qmatrix}
 \keyword{STRUCTURE}
