@@ -1,7 +1,7 @@
 # rCorrSieve Change Log
 
-Michael G. Campana, 2019  
-Smithsonian Conservation Biology Institute  
+Michael G. Campana, 2019-2022  
+Smithsonian's National Zoo & Conservation Biology Institute  
 Contact: campanam@si.edu  
 
 Public domain rCorrSieve GitHub documentation updates (version = 1.6-8) are US government works.  
