@@ -1,7 +1,7 @@
 Package: corrsieve
 Version: 1.6-9
 Date: 2022/04/27
-Title: CorrSieve
+Title: CorrSieve: software for summarising and evaluating STRUCTURE output
 Author: Michael G. Campana <campanam@si.edu>
 Maintainer: Michael G. Campana <campanam@si.edu>
 Description: Statistical summary of Structure output.
