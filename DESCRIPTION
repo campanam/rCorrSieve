@@ -6,7 +6,7 @@ Author: Michael G. Campana <campanam@si.edu>
 Maintainer: Michael G. Campana <campanam@si.edu>
 Description: Statistical summary of Structure output.
 License: GPL (>= 3)
-Depends: methods
+Depends: methods, stats
 URL: https://github.com/campanam/rCorrSieve
 BugReports: https://github.com/campanam/rCorrSieve
 Contact: <campanam@si.edu>
