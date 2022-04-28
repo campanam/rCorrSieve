@@ -7,13 +7,16 @@ Contact: campanam@si.edu
 Public domain rCorrSieve GitHub documentation updates (version = 1.6-8) are US government works.  
 Unmodified *CorrSieve* source code (versions <= 1.6-8) copyright (c) Michael G. Campana, 2010-2013
 
+### Version 1.6-9  
+CRAN Metadata update  
+
 ### Version 1.6-8 (GitHub 2019)  
 Updated documentation and licensing for GitHub hosting  
 
-### Version 1.6-8
+### Version 1.6-8  
 CRAN Metadata update  
 
-### Version 1.6-7
+### Version 1.6-7  
 CRAN Metadata update  
 
 ### Version 1.6-6  
