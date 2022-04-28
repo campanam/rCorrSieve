@@ -3,7 +3,8 @@
 \alias{corr.Qmatrix}
 \title{Corr.Qmatrix}
 \description{Calculates Q matrix correlations from structure files in the folder specified in the filepath option}
-\usage{corr.Qmatrix(filepath = "./", instruct = FALSE, rowncol = TRUE, avmax = TRUE, pvalue = FALSE, raw = TRUE, r = 0.99, p = 0.05)}
+\usage{corr.Qmatrix(filepath = "./", instruct = FALSE, rowncol = TRUE, 
+		    avmax = TRUE, pvalue = FALSE, raw = TRUE, r = 0.99, p = 0.05)}
 \arguments{
 	\item{filepath}{a character string listing the folder's path from the current directory}
 	\item{instruct}{when TRUE, data is in INSTRUCT format, else data is in STRUCTURE format}
