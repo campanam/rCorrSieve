@@ -11,7 +11,11 @@
 \value{Returns a S4 object of class rowncolMatrix listing raw Q matrix correlation results}
 \author{Michael G. Campana <mcampana63@gmail.com>}
 \seealso{\code{\link[=rowncolMatrix-class]{rowncolMatrix}}}
-\examples{test <- rowncolMatrix(K = 3, filtermatrix = table(matrix(c("Y","Y","Y",NA,"Y","Y",NA,NA,"Y"),ncol = 3, byrow = TRUE)))}
+\examples{
+	## Make a table of correlation determinations
+	filtmat <- table(matrix(c("Y","Y","Y",NA,"Y","Y",NA,NA,"Y"),ncol = 3, byrow = TRUE))
+	## Make a rowncolMatrix
+	test <- rowncolMatrix(K = 3, filtermatrix = filtmat)}
 \keyword{Q matrix}
 \keyword{Qmatrix}
 \keyword{STRUCTURE}

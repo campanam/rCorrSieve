@@ -1,13 +1,13 @@
 # rCorrSieve  
 Michael G. Campana  
-Smithsonian Conservation Biology Institute  
+Smithsonian's National Zoo & Conservation Biology Institute  
 
 R implementation of CorrSieve  
 
 ## Licensing  
 Original R source code (*CorrSieve* versions <= 1.6-8) copyright (c) Michael G. Campana, 2010-2013 is licensed under the GNU General Public License (version 3 or later). See included LICENSE file for details.  
 
-Public domain updates by Michael G. Campana (2019) to the GitHub documentation (*CorrSieve* version 1.6-8) are United States government works.  
+Public domain updates by Michael G. Campana (2019, 2022) to the GitHub documentation (*CorrSieve* versions >= 1.6-8) and package metadata (*CorrSieve* version 1.6-9) are United States government works.  
 
 ## Introduction
 *CorrSieve* is a Ruby and R package that filters *Q* value output from the programs STRUCTURE (Pritchard et al. 2000) and INSTRUCT (Gao et al. 2007) by correlation values. It outputs matrices showing significant correlations between individual runs for each *K*. It can also calculate Δ*K* (Evanno et al. 2005), mean *F*<sub>ST</sub>s and Δ*F*<sub>ST</sub>. These measures help identify meaningful values of *K*.  
