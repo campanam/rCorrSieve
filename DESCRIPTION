@@ -4,9 +4,7 @@ Date: 2022-04-28
 Title: Software for Summarising and Evaluating STRUCTURE Output
 Author: Michael G. Campana <campanam@si.edu>
 Maintainer: Michael G. Campana <campanam@si.edu>
-Description: CorrSieve performs statistical summary of STRUCTURE (Pritchard JK, Stephens M, Donnelly PJ (2000) <doi:10.1093/genetics/155.2.945>) output.
-STRUCTURE is a K-means clustering method for inferring population structure and assigning individuals to populations using genetic data.
-<https://web.stanford.edu/group/pritchardlab/structure.html>.
+Description: CorrSieve performs statistical summary of STRUCTURE (Pritchard JK, Stephens M, Donnelly PJ (2000) <doi:10.1093/genetics/155.2.945>) output. STRUCTURE is a K-means clustering method for inferring population structure and assigning individuals to populations using genetic data. <https://web.stanford.edu/group/pritchardlab/structure.html>.
 License: GPL (>= 3)
 Depends: methods, stats
 URL: https://github.com/campanam/rCorrSieve
